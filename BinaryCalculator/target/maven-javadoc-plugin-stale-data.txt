@@ -1,0 +1,57 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/write/Desktop/Work/School/Semester 2/Software Quality/SOFE3980U-Lab-1/BinaryCalculator/target/classes;C:/Users/write/Desktop/Work/School/Semester 2/Software Quality/SOFE3980U-Lab-1/BinaryCalculator/target/test-classes;C:/Users/write/.m2/repository/junit/junit/4.11/junit-4.11.jar;C:/Users/write/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar;C:/Users/write/.m2/repository/joda-time/joda-time/2.9.2/joda-time-2.9.2.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.7'
+-sourcepath
+'C:/Users/write/Desktop/Work/School/Semester 2/Software Quality/SOFE3980U-Lab-1/BinaryCalculator/src/test/java;C:/Users/write/Desktop/Work/School/Semester 2/Software Quality/SOFE3980U-Lab-1/BinaryCalculator/target/generated-test-sources/test-annotations'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/write/Desktop/Work/School/Semester 2/Software Quality/SOFE3980U-Lab-1/BinaryCalculator/target/site/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'BinaryCalculator 1.0.0 Test API'
+-link
+'../apidocs'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' 'C:/Users/write/Desktop/Work/School/Semester 2/Software Quality/SOFE3980U-Lab-1/BinaryCalculator/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'BinaryCalculator 1.0.0 Test API'
+com.ontariotechu.sofe3980U
+'C:/Users/write/Desktop/Work/School/Semester 2/Software Quality/SOFE3980U-Lab-1/BinaryCalculator/src/test/java/com/ontariotechu/sofe3980U/AppTest.java'
+'C:/Users/write/Desktop/Work/School/Semester 2/Software Quality/SOFE3980U-Lab-1/BinaryCalculator/src/test/java/com/ontariotechu/sofe3980U/BinaryTest.java'
+C:\Users\write\Desktop\Work\School\Semester 2\Software Quality\SOFE3980U-Lab-1\BinaryCalculator\target\classes = 1706549800181
+C:\Users\write\Desktop\Work\School\Semester 2\Software Quality\SOFE3980U-Lab-1\BinaryCalculator\target\test-classes = 1706549800299
+C:\Users\write\.m2\repository\junit\junit\4.11\junit-4.11.jar = 1706486433219
+C:\Users\write\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar = 1706486433237
+C:\Users\write\.m2\repository\joda-time\joda-time\2.9.2\joda-time-2.9.2.jar = 1706487464411
+C:\Users\write\Desktop\Work\School\Semester 2\Software Quality\SOFE3980U-Lab-1\BinaryCalculator\src\test\java = 1706486328336
+C:\Users\write\Desktop\Work\School\Semester 2\Software Quality\SOFE3980U-Lab-1\BinaryCalculator\target\generated-test-sources\test-annotations = 1706549800232
+C:\Users\write\Desktop\Work\School\Semester 2\Software Quality\SOFE3980U-Lab-1\BinaryCalculator\target\site\testapidocs\allclasses-index.html = 1706549807046
+C:\Users\write\Desktop\Work\School\Semester 2\Software Quality\SOFE3980U-Lab-1\BinaryCalculator\target\site\testapidocs\allpackages-index.html = 1706549807050
+C:\Users\write\Desktop\Work\School\Semester 2\Software Quality\SOFE3980U-Lab-1\BinaryCalculator\target\site\testapidocs\element-list = 1706549806975
+C:\Users\write\Desktop\Work\School\Semester 2\Software Quality\SOFE3980U-Lab-1\BinaryCalculator\target\site\testapidocs\help-doc.html = 1706549807087
+C:\Users\write\Desktop\Work\School\Semester 2\Software Quality\SOFE3980U-Lab-1\BinaryCalculator\target\site\testapidocs\index-all.html = 1706549807079
+C:\Users\write\Desktop\Work\School\Semester 2\Software Quality\SOFE3980U-Lab-1\BinaryCalculator\target\site\testapidocs\index.html = 1706549807082
+C:\Users\write\Desktop\Work\School\Semester 2\Software Quality\SOFE3980U-Lab-1\BinaryCalculator\target\site\testapidocs\jquery-ui.overrides.css = 1706549807110
+C:\Users\write\Desktop\Work\School\Semester 2\Software Quality\SOFE3980U-Lab-1\BinaryCalculator\target\site\testapidocs\member-search-index.js = 1706549807059
+C:\Users\write\Desktop\Work\School\Semester 2\Software Quality\SOFE3980U-Lab-1\BinaryCalculator\target\site\testapidocs\module-search-index.js = 1706549807053
+C:\Users\write\Desktop\Work\School\Semester 2\Software Quality\SOFE3980U-Lab-1\BinaryCalculator\target\site\testapidocs\overview-tree.html = 1706549807027
+C:\Users\write\Desktop\Work\School\Semester 2\Software Quality\SOFE3980U-Lab-1\BinaryCalculator\target\site\testapidocs\package-search-index.js = 1706549807055
+C:\Users\write\Desktop\Work\School\Semester 2\Software Quality\SOFE3980U-Lab-1\BinaryCalculator\target\site\testapidocs\script.js = 1706549807092
+C:\Users\write\Desktop\Work\School\Semester 2\Software Quality\SOFE3980U-Lab-1\BinaryCalculator\target\site\testapidocs\search.js = 1706549807095
+C:\Users\write\Desktop\Work\School\Semester 2\Software Quality\SOFE3980U-Lab-1\BinaryCalculator\target\site\testapidocs\stylesheet.css = 1706549807090
+C:\Users\write\Desktop\Work\School\Semester 2\Software Quality\SOFE3980U-Lab-1\BinaryCalculator\target\site\testapidocs\tag-search-index.js = 1706549807061
+C:\Users\write\Desktop\Work\School\Semester 2\Software Quality\SOFE3980U-Lab-1\BinaryCalculator\target\site\testapidocs\type-search-index.js = 1706549807057
